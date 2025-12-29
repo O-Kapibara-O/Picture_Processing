@@ -2,10 +2,10 @@
 
 ## Description:
 
-This project contains a set of simple image-processing operations written in C, created for educational purposes.
-It demonstrates manual memory management, file I/O operations, and pixel-level image transformations without using external libraries.
-This code doesn't follow modern coding standards.
-The program works with images in the `.pgm` (Portable GrayMap) format.
+This project contains a set of simple image-processing operations written in C, created for educational purposes. <br>
+It demonstrates manual memory management, file I/O operations, and pixel-level image transformations without using external libraries.<br>
+This code doesn't follow modern coding standards.<br>
+The program works with images in the `.pgm` (Portable GrayMap) format.<br>
 
 ## How to run:
 1. Clone the repository:<br>
@@ -36,17 +36,17 @@ After running the executable, you will see a menu:
 
 The program guides you and should not lead you to a dead end.
 ## Additional information
-Example pictures were taken from this source:
-[PGM example images](https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html)
-There are also more PGM pictures available.
+Example pictures were taken from this source:<br>
+[PGM example images](https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html)<br>
+There are also more PGM pictures available.<br>
 
 ## Screenshots:
-**Example of loaded PGM image**
- <img width="457" height="355" alt="obraz" src="https://github.com/user-attachments/assets/ee27788e-1a19-4f1b-95b6-e4750f8a2df8" />
-**Rotated image example with salt and pepper noise**
-<img width="357" height="459" alt="obraz" src="https://github.com/user-attachments/assets/4e87deeb-a898-48d4-94f0-9229807e603c" />
-**Example of filtered PGM image**
-<img width="452" height="358" alt="obraz" src="https://github.com/user-attachments/assets/fe45ece4-c678-4023-bc3c-609ed6fbb95b" />
-**Negative**
-<img width="457" height="358" alt="obraz" src="https://github.com/user-attachments/assets/b4b01087-80ab-4347-a6bb-8ceceb01319e" />
+**Example of loaded PGM image**<br>
+ <img width="457" height="355" alt="obraz" src="https://github.com/user-attachments/assets/ee27788e-1a19-4f1b-95b6-e4750f8a2df8" /><br>
+**Rotated image example with salt and pepper noise**<br>
+<img width="357" height="459" alt="obraz" src="https://github.com/user-attachments/assets/4e87deeb-a898-48d4-94f0-9229807e603c" /><br>
+**Example of filtered PGM image**<br>
+<img width="452" height="358" alt="obraz" src="https://github.com/user-attachments/assets/fe45ece4-c678-4023-bc3c-609ed6fbb95b" /><br>
+**Negative**<br>
+<img width="457" height="358" alt="obraz" src="https://github.com/user-attachments/assets/b4b01087-80ab-4347-a6bb-8ceceb01319e" /><br>
 
