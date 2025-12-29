@@ -35,17 +35,29 @@ After running the executable, you will see a menu:
 0. **Exit** – quit the program.
 
 The program guides you and should not lead you to a dead end.
+## Additional information
+Example pictures were taken from this source:
+[](https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html)
+There are also more PGM pictures available.
 
 ## Screenshots:
 
-<img width="457" height="355" alt="obraz" src="https://github.com/user-attachments/assets/ee27788e-1a19-4f1b-95b6-e4750f8a2df8" />
-
+<figure>
+ <img width="457" height="355" alt="obraz" src="https://github.com/user-attachments/assets/ee27788e-1a19-4f1b-95b6-e4750f8a2df8" />
+  <figcaption>Example of loaded PGM image</figcaption>
+</figure>
+<figure>
 <img width="357" height="459" alt="obraz" src="https://github.com/user-attachments/assets/4e87deeb-a898-48d4-94f0-9229807e603c" />
-
+  <figcaption>Rotated image example with salt and pepper noise</figcaption>
+</figure>
+<figure>
 <img width="452" height="358" alt="obraz" src="https://github.com/user-attachments/assets/fe45ece4-c678-4023-bc3c-609ed6fbb95b" />
-
+  <figcaption>Example of filtered PGM image</figcaption>
+</figure>
+<figure>
 <img width="457" height="358" alt="obraz" src="https://github.com/user-attachments/assets/b4b01087-80ab-4347-a6bb-8ceceb01319e" />
-
+  <figcaption>Negative</figcaption>
+</figure>
 
 
 
