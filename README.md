@@ -46,7 +46,7 @@ There are also more PGM pictures available.<br>
 **Rotated image example with salt and pepper noise:**<br>
 <img width="357" height="459" alt="obraz" src="https://github.com/user-attachments/assets/4e87deeb-a898-48d4-94f0-9229807e603c" /><br>
 **Example of filtered PGM image:**<br>
-<img width="452" height="358" alt="obraz" src="https://github.com/user-attachments/assets/fe45ece4-c678-4023-bc3c-609ed6fbb95b" /><br>
+<img width="457" height="357" alt="obraz" src="https://github.com/user-attachments/assets/e9326f13-8daa-4c0e-b540-a4ecb26efd2a" />><br>
 **Negative:**<br>
 <img width="457" height="358" alt="obraz" src="https://github.com/user-attachments/assets/b4b01087-80ab-4347-a6bb-8ceceb01319e" /><br>
 
